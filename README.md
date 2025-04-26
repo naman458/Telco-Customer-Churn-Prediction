@@ -1,4 +1,4 @@
-Telco Customer Churn Prediction
+# Telco Customer Churn Prediction
 Overview
 This project develops a machine learning model to predict customer churn for a telecommunications company using the Telco Customer Churn dataset. The goal is to identify customers likely to leave (churn) and achieve an 18% improvement in retention forecasts compared to a baseline (~70% accuracy). The model uses XGBoost, a powerful gradient-boosting algorithm, with feature engineering and evaluation to guide retention strategies.
 Dataset
